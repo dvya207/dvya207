@@ -75,7 +75,8 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/dvya207
-* LinkedIn: https://www.linkedin.com/in/divya-jain-b0015b348
+* LinkedIn: https://www.linkedin.com/in/divya-d-jain02
+  
 
 ---
 
