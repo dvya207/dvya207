@@ -4,7 +4,7 @@
 
 💻 Passionate about software development and building impactful technology solutions using Java, Python, Artificial Intelligence, and Full Stack Development.
 
-🌱 Eager to learn new technologies, explore innovative ideas, and continuously improve my technical skills.
+Eager to learn new technologies, explore innovative ideas, and continuously improve my technical skills.
 
 ## 🚀 Skills & Technologies
 
