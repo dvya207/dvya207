@@ -51,12 +51,15 @@ Eager to learn new technologies, explore innovative ideas, and continuously impr
 
 * Git
 * GitHub
-* VS Code
-* Eclipse
+* Turbo C
+* Aurdino IDE
+* Visual Code IDE
+* Eclipse IDE
 * IntelliJ IDEA
 * PyCharm
 * Postman
-* Hoppscotch 
+* Hoppscotch
+* n8n Workflow Automation Platform 
 
 ## 🎯 Areas of Interest
 
