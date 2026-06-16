@@ -1,6 +1,6 @@
 # Hi 👋, I'm Divya Jain
 
-### Computer Science Student | Software Developer | AI & Full Stack Development Enthusiast
+### Computer Science Student | Software Developer |Python, AI & Full Stack Development Enthusiast
 
 💻 Passionate about software development and building impactful technology solutions using Java, Python, Artificial Intelligence, and Full Stack Development.
 
