@@ -15,11 +15,12 @@ Eager to learn new technologies, explore innovative ideas, and continuously impr
 * C++
 * JavaScript
 * SQL
+* PHP
 
 ### Full Stack Development
 
 * MERN Stack (MongoDB, Express.js, React.js, Node.js)
-* HTML
+* Bootstrap
 * CSS
 
 ### Backend Technologies
@@ -39,6 +40,7 @@ Eager to learn new technologies, explore innovative ideas, and continuously impr
 ### IoT & Automation
 
 * IoT Fundamentals
+* Rasberry Pi
 * Workflow Automation
 * n8n Automation
 
