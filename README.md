@@ -52,7 +52,11 @@ Eager to learn new technologies, explore innovative ideas, and continuously impr
 * Git
 * GitHub
 * VS Code
+* Eclipse
+* IntelliJ IDEA
+* PyCharm
 * Postman
+* Hoppscotch 
 
 ## 🎯 Areas of Interest
 
