@@ -26,6 +26,7 @@ Eager to learn new technologies, explore innovative ideas, and continuously impr
 ### Backend Technologies
 
 * FastAPI
+* Flask
 * Spring Boot
 * Node.js
 * Express.js
