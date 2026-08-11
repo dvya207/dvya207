@@ -1,95 +1,149 @@
 # Hi 👋, I'm Divya Jain
 
-### Computer Science Student | Software Developer |Python, AI & Full Stack Development Enthusiast
+### Software Developer | Full Stack Development | AI & Cloud Enthusiast
 
-💻 Passionate about software development and building impactful technology solutions using Java, Python, Artificial Intelligence, and Full Stack Development.
+💻 Passionate about software development and building practical, scalable applications using modern frontend, backend, cloud, and AI technologies.
 
-Eager to learn new technologies, explore innovative ideas, and continuously improve my technical skills.
+I enjoy learning new technologies, building real-world projects, and continuously strengthening my skills across full-stack development, AI, cloud services, and automation.
 
 ## 🚀 Skills & Technologies
 
-### Programming Languages
+### 💻 Programming Languages
 
-* Java
-* Python
-* C++
-* JavaScript
-* SQL
-* PHP
+- Java
+- Python
+- TypeScript
+- JavaScript
+- C
+- C++
+- SQL
+- PHP
+- R
 
-### Full Stack Development
+### 🎨 Frontend Development
 
-* MERN Stack (MongoDB, Express.js, React.js, Node.js)
-* Bootstrap
-* CSS
+- Angular
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Responsive Web Design
 
-### Backend Technologies
+### ⚙️ Backend Development
 
-* FastAPI
-* Flask
-* Spring Boot
-* Node.js
-* Express.js
+- Spring Boot
+- FastAPI
+- Flask
+- Node.js
+- Express.js
+- Django
+- REST APIs
+- Webhooks
 
-### Artificial Intelligence & Data Science
+### 🔥 Firebase & Backend Services
 
-* Machine Learning
-* Deep Learning
-* TensorFlow
-* OpenCV
+- Firebase
+- Cloud Firestore
+- Firebase Authentication
+- Firebase Hosting
+- Firebase Storage – Learning
+- Cloud Functions – Learning
 
-### IoT & Automation
+### 🗄️ Databases
 
-* IoT Fundamentals
-* Rasberry Pi
-* Workflow Automation
-* n8n Automation
+- MySQL
+- MongoDB
+- Cloud Firestore
 
-### Databases
+### 🤖 Artificial Intelligence & Machine Learning
 
-* MySQL
-* MongoDB
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- OpenCV
+- YOLO
+- AI-Assisted Development
+- Claude / Claude Code
+- LLM Integration
 
-### Tools
+### ☁️ Cloud & Deployment
 
-* Git
-* GitHub
-* Turbo C
-* Aurdino IDE
-* Visual Code IDE
-* Eclipse IDE
-* IntelliJ IDEA
-* PyCharm
-* Postman
-* Hoppscotch
-* n8n Workflow Automation Platform 
+- AWS
+- Microsoft Azure
+- MongoDB Atlas
+- Vercel
+- Render
+- Firebase Hosting
+- Docker
+- Docker Compose
+- Nginx
+
+### 🔄 Automation & Integration
+
+- n8n
+- Workflow Automation
+- REST API Integration
+- Webhook Integration
+
+### 🛠️ Development Tools
+
+- Git
+- GitHub
+- Bitbucket
+- VS Code
+- IntelliJ IDEA
+- Eclipse
+- PyCharm
+- Maven
+- Postman
+- Hoppscotch
+- Jira / Atlassian
+
+## 💡 Core Concepts
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- CRUD Operations
+- Authentication & Authorization
+- RESTful API Development
+- Database Integration
+- Angular Routing & Route Guards
+- Dependency Injection
+- Component-Based Architecture
+- Git Version Control
+- SDLC
 
 ## 🎯 Areas of Interest
 
-* Software Development
-* Java Development
-* Python Development
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Full Stack Development
-* Automation Technologies
+- Software Engineering
+- Full Stack Development
+- Java & Spring Boot Development
+- Angular Development
+- Artificial Intelligence
+- Cloud Technologies
+- AI-Assisted Software Development
+- Automation
 
-## 📈 Currently Focused On
+## 📈 Currently Learning
 
-* Enhancing problem-solving skills
-* Building scalable applications
-* Learning emerging technologies
-* Expanding knowledge in AI and software engineering
+- Angular & TypeScript
+- Firebase & Cloud Firestore
+- Firebase Authentication
+- Cloud Functions
+- Firebase Security Rules
+- RxJS
+- Claude Code & AI-Assisted Development
+- Flutter & Dart
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/dvya207
-* LinkedIn: https://www.linkedin.com/in/divya-d-jain02
-  
+- GitHub: https://github.com/dvya207
+- LinkedIn: https://www.linkedin.com/in/divya-d-jain02
 
 ---
 
 ### ✨ Motto
 
-"Stay curious, keep learning, and turn ideas into reality through technology."
+> "Stay curious, keep learning, and turn ideas into reality through technology."
