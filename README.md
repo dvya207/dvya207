@@ -10,15 +10,15 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 ### 💻 Programming Languages
 
-- Java
+- Java 
 - Python
 - TypeScript
 - JavaScript
 - C
-- C++
 - SQL
 - PHP
-- R
+- R Basics
+- C++ Basics
 
 ### 🎨 Frontend Development
 
