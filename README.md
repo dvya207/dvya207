@@ -17,9 +17,6 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 - C
 - SQL
 - PHP
-- R Basics
-- C++ Basics
-
 ### 🎨 Frontend Development
 
 - Angular
@@ -38,7 +35,6 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 - Flask
 - Node.js
 - Express.js
-- Django
 - REST APIs
 - Webhooks
 
@@ -48,7 +44,7 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 - Cloud Firestore
 - Firebase Authentication
 - Firebase Hosting
-- Firebase Storage – Learning
+- Firebase Storage 
 - Cloud Functions – Learning
 
 ### 🗄️ Databases
